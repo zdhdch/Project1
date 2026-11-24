@@ -59,3 +59,26 @@ int main()
 
 	return 0;
 	}
+
+
+
+//int God = 10
+
+//몬스터를 잡고서 골드 획득
+//Gold = Gold + 10;
+
+//Array 배열
+//int Gold[10] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
+
+//cout << Gold << endl;
+//cout << Gold[1] << endl;
+
+//int A + 0;
+//A++;		++A;
+//A--;
+// 모든 골드에 하나씩 101 더해주세요
+// //일만 만복문
+//for (int i = 0;i < 100; i++)
+//{
+//	Gold[i] += 101;
+//}
